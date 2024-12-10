@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/genene_tise" target="blank"><img src="https://img.shields.io/twitter/follow/genene_tise?logo=twitter&style=for-the-badge" alt="genene_tise" /></a> </p>
 
-- 🔭 I’m currently working on https://github.com/tise-genene/EagleTutorials
+- 🔭 I’m currently working on **Eagle-LMS(https://github.com/tise-genene?tab=repositories)**
 
 - 🌱 I’m currently learning **Javascript and Laravel**
 
