@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Genene Tise</h1>
 <h3 align="center">A passionate Fullstack developer from Addis Ababa, Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tise-genene&label=Profile%20views&color=0e75b6&style=flat" alt="tise-genene" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tise-genene" alt="tise-genene" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/genene_tise" target="blank"><img src="https://img.shields.io/twitter/follow/genene_tise?logo=twitter&style=for-the-badge" alt="genene_tise" /></a> </p>
-
 - 🔭 I’m currently working on **Eagle-LMS**(https://github.com/tise-genene?tab=repositories)
 
 - 🌱 I’m currently learning **Javascript and Laravel**
