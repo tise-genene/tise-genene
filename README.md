@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Genene Tise</h1>
-<h3 align="center">A passionate Fullstack developer from Addis Ababa, Ethiopia</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
+<br/>
 
 - 🔭 I’m currently working on **Eagle-LMS**(https://github.com/tise-genene?tab=repositories)
 
