@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript and Laravel**
 
-- 👯 I’m looking to collaborate on [ETS](https://t.me/eagleconsult)
+- 👯 I’m looking to collaborate on **Any Projects**
 
 - 👨‍💻 All of my projects are available at (https://github.com/tise-genene?tab=repositories)
 
