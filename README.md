@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 <br/>
 
-- 🔭 I’m currently working on **Eagle-LMS**(https://github.com/tise-genene?tab=repositories)
+- 🔭 I’m currently working on **MERN / Laravel Projects**
 
 - 🌱 I’m currently learning **Javascript and Laravel**
 
