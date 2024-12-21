@@ -1,54 +1,67 @@
-<h1 align="center">Hi 👋, I'm Genene Tise</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h1 align="center">✨ Hi there, I'm <span style="color: #6A5ACD;">Genene Tise</span> 👋</h1>
+<h3 align="center">🌟 A Passionate Fullstack Developer Crafting Ideas into Reality 🌟</h3>
 
 <p align="center">
-  🔭 Currently working on <strong>MERN / Laravel Projects</strong><br />
-  🌱 Learning <strong>JavaScript and Laravel</strong><br />
-  👯 Open to collaborating on <strong>Exciting Projects</strong><br />
-  💬 Ask me about <strong>JavaScript, React, and Laravel</strong><br />
-  ⚡ Fun fact: <strong>I love solving problems!</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+  <strong>Turning problems into solutions one line of code at a time.</strong>
 </p>
 
 ---
 
-<h3 align="center">🌐 Online Presence</h3>
+<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  <a href="https://github.com/tise-genene?tab=repositories" target="_blank">🛠️ GitHub</a> • 
-  <a href="https://medium.com/@tisegenene" target="_blank">✍️ Medium</a> • 
-  <a href="https://resume.io/r/iDnxkrFf4" target="_blank">📄 Resume</a>
+  🔭 Working on <strong>cutting-edge MERN & Laravel projects</strong><br />
+  🌱 Currently diving deeper into <strong>JavaScript, React, and Laravel</strong><br />
+  👯 Excited to collaborate on <strong>innovative tech ideas</strong><br />
+  💡 <strong>Fun Fact:</strong> I believe every problem has a hidden opportunity. 🪄<br />
 </p>
 
 ---
 
-<h3 align="left">📫 Contact Me</h3>
-<p>
-  <a href="mailto:tisegenene@gmail.com"><strong>Email</strong>: tisegenene@gmail.com</a><br />
-  <a href="https://www.linkedin.com/in/genene-tise-253037234/" target="_blank">LinkedIn</a><br />
-  <a href="https://twitter.com/genene_tise" target="_blank">Twitter</a><br />
-  <a href="https://www.youtube.com/@tisetube1" target="_blank">YouTube</a><br />
-  <a href="https://www.instagram.com/tise_genene/" target="_blank">Instagram</a>
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="mailto:tisegenene@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/genene-tise-253037234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/genene_tise"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://youtube.com/@tisetube1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/tise_genene/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+<h3 align="center">⚙️ Tech Toolbox</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,laravel,mongodb,python,bootstrap,tailwind,html,css" alt="Tech Stack" />
 </p>
 
 ---
 
-<h3 align="center">💖 Support My Work</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tise-genene&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tise-genene&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">✨ Fun Projects</h3>
+<p align="center">
+  🌾 <strong>AGRIFUND</strong>: Peer-to-peer lending platform for small-scale farmers<br />
+  🍴 <strong>Laravel Restaurant Reservation System</strong>: User-friendly seat and meal reservation<br />
+  📊 <strong>HRMS for Yekatit 12 Hospital</strong>: Efficient resource management<br />
+</p>
+
+---
+
+<h3 align="center">💖 Support My Journey</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/genenetise" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy me a coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <em>Let's build something amazing together!</em> 🌟
 </p>
