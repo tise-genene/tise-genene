@@ -3,17 +3,17 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <strong>Turning problems into solutions one line of code at a time.</strong>
+  <strong>Turning challenges into solutions one line of code at a time.</strong>
 </p>
 
 ---
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  🔭 Working on <strong>cutting-edge MERN & Laravel projects</strong><br />
-  🌱 Currently diving deeper into <strong>JavaScript, React, and Laravel</strong><br />
-  👯 Excited to collaborate on <strong>innovative tech ideas</strong><br />
-  💡 <strong>Fun Fact:</strong> I believe every problem has a hidden opportunity. 🪄<br />
+  🔭 Working on <strong>cutting-edge MERN & Laravel applications</strong><br />
+  🌱 Continuously growing my skills in <strong>JavaScript, React, and Backend Development</strong><br />
+  👯 Open to collaborating on <strong>innovative projects that make an impact</strong><br />
+  💡 <strong>Fun Fact:</strong> I enjoy finding elegant solutions to complex problems. 🚀<br />
 </p>
 
 ---
@@ -44,15 +44,6 @@
 
 ---
 
-<h3 align="center">✨ Fun Projects</h3>
-<p align="center">
-  🌾 <strong>AGRIFUND</strong>: Peer-to-peer lending platform for small-scale farmers<br />
-  🍴 <strong>Laravel Restaurant Reservation System</strong>: User-friendly seat and meal reservation<br />
-  📊 <strong>HRMS for Yekatit 12 Hospital</strong>: Efficient resource management<br />
-</p>
-
----
-
 <h3 align="center">💖 Support My Journey</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/genenetise" target="_blank">
@@ -63,5 +54,5 @@
 ---
 
 <p align="center">
-  🚀 <em>Let's build something amazing together!</em> 🌟
+  🚀 <em>Let’s create something extraordinary together!</em> 🌟
 </p>
