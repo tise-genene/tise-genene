@@ -1,21 +1,6 @@
 <h1 align="center">✨ Hi there, I'm <span style="color: #6A5ACD;">Genene Tise</span> 👋</h1>
 <h3 align="center">🌟 A Passionate Fullstack Web and Mobile Developer 🌟</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <strong>Turning challenges into solutions one line of code at a time.</strong>
-</p>
-
----
-
-<h3 align="center">🚀 About Me</h3>
-<p align="center">
-  🔭 Working on <strong>cutting-edge Web & Mobile applications</strong><br />
-  🌱 Continuously growing my skills in <strong>JavaScript, React, and Backend Development</strong><br />
-  👯 Open to collaborating on <strong>innovative projects that make an impact</strong><br />
-  💡 <strong>Fun Fact:</strong> I enjoy finding elegant solutions to complex problems. 🚀<br />
-</p>
-
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
