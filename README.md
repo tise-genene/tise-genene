@@ -25,14 +25,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeneneTise&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GeneneTise&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 <h3 align="center">🚀 Let's Build the Future Together! 🌟</h3>
 <p align="center">
   <em>“The best way to predict the future is to create it.” – Alan Kay</em>
