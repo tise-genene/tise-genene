@@ -16,7 +16,7 @@
 
 <h3 align="center">⚙️ Tech Toolbox</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,laravel,mongodb,python,bootstrap,tailwind,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,nodejs,laravel,mongodb,bootstrap,tailwind,html,css" alt="Tech Stack" />
 </p>
 
 ---
