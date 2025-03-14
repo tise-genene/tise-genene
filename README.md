@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi there, I'm <span style="color: #6A5ACD;">Genene Tise</span> 👋</h1>
-<h3 align="center">🌟 A Passionate Fullstack Developer Crafting Ideas into Reality 🌟</h3>
+<h3 align="center">🌟 A Passionate Fullstack Web and Mobile Developer 🌟</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
@@ -10,7 +10,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  🔭 Working on <strong>cutting-edge MERN & Laravel applications</strong><br />
+  🔭 Working on <strong>cutting-edge Web & Mobile applications</strong><br />
   🌱 Continuously growing my skills in <strong>JavaScript, React, and Backend Development</strong><br />
   👯 Open to collaborating on <strong>innovative projects that make an impact</strong><br />
   💡 <strong>Fun Fact:</strong> I enjoy finding elegant solutions to complex problems. 🚀<br />
@@ -32,23 +32,6 @@
 <h3 align="center">⚙️ Tech Toolbox</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,laravel,mongodb,python,bootstrap,tailwind,html,css" alt="Tech Stack" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tise-genene&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tise-genene&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">💖 Support My Journey</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/genenetise" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
-  </a>
 </p>
 
 ---
