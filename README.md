@@ -1,5 +1,9 @@
 <h1 align="center">✨ Hi there, I'm <span style="color: #6A5ACD;">Genene Tise</span> 👋</h1>
-<h3 align="center">🌟 A Passionate Fullstack Web and Mobile Developer 🌟</h3>
+<h3 align="center">🌟 Passionate Fullstack Web & Mobile Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=600&lines=Innovating+One+Line+at+a+Time;Building+Scalable+Web+%26+Mobile+Apps;Fullstack+Developer+%7C+Tech+Enthusiast;Let’s+create+something+extraordinary!" alt="Typing Animation">
+</p>
 
 ---
 
@@ -16,11 +20,20 @@
 
 <h3 align="center">⚙️ Tech Toolbox</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,nodejs,laravel,mongodb,bootstrap,tailwind,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,laravel,mongodb,bootstrap,tailwind,html,css,git,github,figma" alt="Tech Stack" />
 </p>
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  🚀 <em>Let’s create something extraordinary together!</em> 🌟
+  <img src="https://github-readme-stats.vercel.app/api?username=GeneneTise&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GeneneTise&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">🚀 Let's Build the Future Together! 🌟</h3>
+<p align="center">
+  <em>“The best way to predict the future is to create it.” – Alan Kay</em>
 </p>
