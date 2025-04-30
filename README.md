@@ -1,9 +1,5 @@
-<h1 align="center">✨ Hi there, I'm <span style="color: #6A5ACD;">Genene Tise</span> 👋</h1>
-<h3 align="center">🌟 Passionate Fullstack Web & Mobile Developer 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&width=600&lines=Innovating+One+Line+at+a+Time;Building+Scalable+Web+%26+Mobile+Apps;Fullstack+Developer+%7C+Tech+Enthusiast;Let’s+create+something+extraordinary!" alt="Typing Animation">
-</p>
+<h1 align="center">I'm <span style="color: #6A5ACD;">Genene Tise</span> </h1>
+<h3 align="center">Passionate Fullstack Web & Mobile Developer </h3>
 
 ---
 
@@ -25,7 +21,7 @@
 
 ---
 
-<h3 align="center">🚀 Let's Build the Future Together! 🌟</h3>
+<h3 align="center">Let's Build the Future Together! </h3>
 <p align="center">
   <em>“The best way to predict the future is to create it.” – Alan Kay</em>
 </p>
