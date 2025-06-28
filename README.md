@@ -14,13 +14,6 @@
 
 ---
 
-<h3 align="center">⚙️ Tech Toolbox</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,laravel,mongodb,bootstrap,tailwind,html,css,git,github,figma" alt="Tech Stack" />
-</p>
-
----
-
 <h3 align="center">Let's Build the Future Together! </h3>
 <p align="center">
   <em>“The best way to predict the future is to create it.” – Alan Kay</em>
