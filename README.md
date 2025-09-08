@@ -1,5 +1,15 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene Tise</span></h1>
-<h3 align="center">🚀 Fullstack Web & Mobile Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene Tise</span> 👋</h1>
+<h3 align="center">🚀 Fullstack Web & Mobile Developer | Startup Founder | Freelance Wizard | Tech Problem-Solver</h3>
+
+---
+
+<h3 align="center">💻 What I Do</h3>
+<p align="center">
+  I build scalable web & mobile apps using <strong>Laravel, Node.js, Supabase, PostgreSQL, MySQL, MongoDB, React, and Flutter</strong>.  
+  I run <strong>Eagle Tutorials Services</strong> – connecting students with tutors in innovative ways.  
+  I've shipped features for <strong>Taptosign.com</strong> (e-signature platform) & <strong>Notify.com</strong> (remote support system).  
+  Freelance hustle? I thrive on <strong>Upwork</strong>, fixing bugs, building projects, and helping clients bring their ideas to life.
+</p>
 
 ---
 
@@ -18,3 +28,13 @@
 <p align="center">
   <em>“The best way to predict the future is to create it.” – Alan Kay</em>
 </p>
+
+---
+
+<h3 align="center">📂 Portfolio Highlights</h3>
+<ul align="center">
+  <li><strong>Commercial Bank of Ethiopia Corporate Website:</strong> Frontend implementation & API integration</li>
+  <li><strong>Taptosign.com:</strong> E-signature platform – feature development & optimization</li>
+  <li><strong>Notify.com:</strong> Remote support system – backend & API enhancements</li>
+  <li><strong>Eagle Tutorials Services:</strong> Startup & platform creation connecting tutors & students</li>
+</ul>
