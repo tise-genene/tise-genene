@@ -3,7 +3,6 @@
 
 ---
 
-<h3 align="center">💻 About Me</h3>
 <p align="center">
 I build scalable web & mobile apps using <strong>Laravel, Node.js, Supabase, PostgreSQL, MySQL, MongoDB, React, Next.js, and JavaScript</strong>.
 </p>
