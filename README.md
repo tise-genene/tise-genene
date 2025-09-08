@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene Tise</span> 👋</h1>
-<h3 align="center">🚀 Fullstack Web & Mobile Developer | Startup Founder | Tech Problem-Solver</h3>
+<h3 align="center">🚀 Fullstack Web & Mobile Developer</h3>
 
 ---
 
