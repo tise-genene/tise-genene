@@ -1,5 +1,5 @@
-<h1 align="center">I'm <span style="color: #6A5ACD;">Genene Tise</span> </h1>
-<h3 align="center">Passionate Fullstack Web & Mobile Developer </h3>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene Tise</span></h1>
+<h3 align="center">🚀 Fullstack Web & Mobile Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">Let's Build the Future Together! </h3>
+<h3 align="center">💡 Let's Build the Future Together!</h3>
 <p align="center">
   <em>“The best way to predict the future is to create it.” – Alan Kay</em>
 </p>
