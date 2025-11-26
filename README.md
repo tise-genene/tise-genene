@@ -2,19 +2,19 @@
 <h3 align="center">🚀 Fullstack Web & Mobile Developer | Open to Opportunities</h3>
 
 <p align="center">
-  I build scalable web & mobile apps, ship fast, break barriers, and keep learning.  
-  Driven by impact, performance, and clean engineering.
+  I build fast, scalable, production-ready apps — from idea to deployment.  
+  Focused on performance, clean architecture, and solving real problems.
 </p>
 
 ---
 
 ## 🔥 About Me
-- 💻 Fullstack developer with strong experience in **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native**  
-- 🛢️ Skilled with **Supabase, PostgreSQL, MySQL, MongoDB**  
-- 🚀 Love working with startups, remote teams & long-term product builds  
-- 📱 Mobile-first thinker | ⚡ Rapid problem solver | 🧠 High-ownership mindset  
-- 🌍 From Addis Ababa, working worldwide  
-- 🎯 Currently open to **Full-Stack**, **Backend**, **Frontend**, and **Mobile Dev** roles
+- 💻 Full-stack developer skilled in **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native**
+- 🛢️ Strong with **Supabase, PostgreSQL, MySQL, MongoDB**
+- 🚀 Experienced with startups, long-term product teams, and remote-first environments  
+- ⚡ Known for fast execution, deep problem-solving, and high ownership  
+- 🌍 Addis Ababa → Working with teams worldwide  
+- 🎯 Open to **Full-Stack**, **Backend**, **Frontend**, and **Mobile Development** roles
 
 ---
 
@@ -31,7 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### **Databases & Tools**
@@ -44,8 +44,22 @@
 
 ---
 
+## 📌 Featured Work  
+<p>
+👉 <strong>taptosign.com</strong> – full e-signature system (built end-to-end)  
+<br/>
+👉 <strong>notify.com</strong> – remote device maintenance platform  
+<br/>
+👉 <strong>combanketh.et</strong> – enterprise-grade corporate website  
+<br/>
+👉 + multiple production projects on Upwork & startup collaborations  
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="https://genenetise.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:tisegenene@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/genene-tise-253037234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/genene_tise"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
