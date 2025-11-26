@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Fullstack Web & Mobile Developer | Open to Opportunities</h3>
 
 <p align="center">
+  <img src="https://i.imgur.com/q5i1Hbi.gif" alt="Coding GIF" width="600"/>
+</p>
+
+<p align="center">
   I build fast, scalable, production-ready apps — from idea to deployment.  
   Focused on performance, clean architecture, and solving real problems.
 </p>
