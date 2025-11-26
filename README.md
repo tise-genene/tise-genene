@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️ </span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️</span> 👋</h1>
 <h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
 
 <p align="center">
@@ -8,8 +8,11 @@
 ---
 
 ## 🔥 About Me
-- 💻 Full-stack developer skilled in **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native**
-- 🛢️ Strong with **Supabase, PostgreSQL, MySQL, MongoDB**
+- 💻 Full-stack developer skilled in **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native, Vue.js, Angular**
+- 🛢️ Strong with **Supabase, PostgreSQL, MySQL, MongoDB, Redis**
+- 📱 Mobile development with **React Native, Flutter**
+- ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, Vercel, Render**
+- 🎨 UI/UX & Design: **Figma, TailwindCSS, Material UI, Framer**
 - 🚀 Experienced with startups, long-term product teams, and remote-first environments  
 - ⚡ Known for fast execution, deep problem-solving, and high ownership  
 - 🌍 Addis Ababa → Working with teams worldwide  
@@ -23,7 +26,10 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 ### **Backend**
@@ -31,30 +37,40 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### **Databases & Tools**
+### **Databases & Storage**
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
----
-
-## 📌 Featured Work  
+### **Mobile & Cross-Platform**
 <p>
-👉 <strong>taptosign.com</strong> – full e-signature system (built end-to-end)  
-<br/>
-👉 <strong>notify.com</strong> – remote device maintenance platform  
-<br/>
-👉 <strong>combanketh.et</strong> – enterprise-grade corporate website  
-<br/>
-👉 + multiple production projects on Upwork & startup collaborations  
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
+### **Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-FF3E00?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+### **Design & Prototyping**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-F24E1E?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
 
 ## 🌐 Connect with Me
 <p align="center">
