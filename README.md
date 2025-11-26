@@ -2,8 +2,7 @@
 <h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
 
 <p align="center">
-  I build fast, scalable, production-ready apps — from idea to deployment.  
-  Focused on performance, clean architecture, and solving real problems.
+  I build fast, scalable, production-ready apps from idea to deployment.
 </p>
 
 ---
