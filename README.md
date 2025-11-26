@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Web & Mobile Developer | Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/q5i1Hbi.gif" alt="Coding GIF" width="600"/>
+  <img src="https://i.imgur.com/8MupZHY.gif" alt="Developer GIF" width="600"/>
 </p>
 
 <p align="center">
