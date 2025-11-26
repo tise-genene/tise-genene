@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene Tise</span> 👋</h1>
-<h3 align="center">🚀 Fullstack Web & Mobile Developer | Open to Opportunities</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" alt="Developer GIF" width="600"/>
-</p>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️ </span> 👋</h1>
+<h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
 
 <p align="center">
   I build fast, scalable, production-ready apps — from idea to deployment.  
