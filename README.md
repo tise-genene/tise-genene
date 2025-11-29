@@ -1,22 +1,21 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️</span> 👋</h1>
-<h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️💾</span> 👋</h1>
+<h3 align="center">Fullstack Web & Mobile Dev | Coffee-fueled & Bug-slaying</h3>
 
 <p align="center">
-  I build fast, scalable, production-ready apps from idea to deployment.
+  I turn caffeine and late-night ideas into **scalable, production-ready apps** that actually work. From zero-to-deploy, I got you.
 </p>
 
 ---
 
 ## 🔥 About Me
-- 💻 Full-stack developer skilled in **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native, Vue.js, Angular**
-- 🛢️ Strong with **Supabase, PostgreSQL, MySQL, MongoDB, Redis**
-- 📱 Mobile development with **React Native, Flutter**
-- ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, Vercel, Render**
-- 🎨 UI/UX & Design: **Figma, TailwindCSS, Material UI, Framer**
-- 🚀 Experienced with startups, long-term product teams, and remote-first environments  
-- ⚡ Known for fast execution, deep problem-solving, and high ownership  
-- 🌍 Addis Ababa → Working with teams worldwide  
-- 🎯 Open to **Full-Stack**, **Backend**, **Frontend**, and **Mobile Development** roles
+- 💻 Full-stack code-warrior wielding **JavaScript, TypeScript, Laravel, Node.js, React, Next.js, React Native, Vue.js, Angular**
+- 🛢️ Database whisperer: **Supabase, PostgreSQL, MySQL, MongoDB, Redis**
+- 📱 Mobile multi-tool: **React Native, Flutter**
+- ☁️ Cloud & DevOps sorcery: **AWS, Docker, Kubernetes, Vercel, Render**
+- 🎨 UI/UX hacker: **Figma, TailwindCSS, Material UI, Framer**
+- 🚀 Startup & product veteran: fast execution, deep problem-solving, high ownership  
+- 🌍 Addis Ababa → coding globally, shipping everywhere  
+- 🎯 Open to **Full-Stack**, **Backend**, **Frontend**, **Mobile** chaos & creation
 
 ---
 
@@ -71,7 +70,6 @@
   <img src="https://img.shields.io/badge/Framer-F24E1E?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://genenetise.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -82,4 +80,4 @@
 
 ---
 
-<p align="center"><em>“The best way to predict the future is to create it.” – Alan Kay</em></p>
+<p align="center"><em>“I don’t just predict the future. I code it.” – Genene T</em></p>
