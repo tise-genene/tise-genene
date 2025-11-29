@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️💾</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️</span> 👋</h1>
 <h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
 
 <p align="center">
@@ -52,6 +52,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="mailto:tisegenene@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://genenetise.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
