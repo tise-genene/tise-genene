@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️</span> 👋</h1>
 <h3 align="center">Fullstack Web & Mobile Developer | Open to Work</h3>
----
 
 ## About Me
 - Full-stack engineer fluent in **JavaScript**, **TypeScript**, **Laravel**, **Node.js**, **React**, **Next.js**, **Vue**, **Angular**, **React Native**, **Flutter**
