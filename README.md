@@ -10,5 +10,4 @@
 - Addis Ababa → building for the world  
 - Open to roles across **Full-Stack**, **Backend**, **Frontend**, and **Mobile**
 
---
 <p align="center"><em>“The best way to predict the future is to create it.” – Alan Kay</em></p>
