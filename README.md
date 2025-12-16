@@ -1,6 +1,15 @@
-<h1 align="center">Hi, I'm <span style="color:#6A5ACD;">Genene T ☕️</span></h1>
-<h3 align="center">Fullstack Engineer | Open to Work</h3>
+```txt
+> genene.init()
+> status: shipping
+```
 
-## About Me
+# 👾 Genene T.
 
-<p align="center"><em>“The best way to predict the future is to create it.” – Alan Kay</em></p>
+**Full‑Stack Engineer**
+
+```ts
+build(); break(); fix(); repeat();
+```
+
+Systems > demos.
+Commits > permission.
