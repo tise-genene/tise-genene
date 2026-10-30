@@ -1,67 +1,103 @@
+<!--
+  GitHub profile README
+  Keep this page evidence-led: update project status and links as the work evolves.
+-->
+
+<div align="center">
+
 # Genene Tise
 
-**Software Engineer · Full-Stack Developer · AI Builder**
+### Software Engineer · Full-Stack Developer · AI Builder
 
-I build software that solves practical problems — from web platforms and backend systems to AI-powered tools. I enjoy taking ideas from an early sketch to a working product, understanding the systems underneath, and making thoughtful engineering trade-offs along the way.
+**I build useful software — from backend systems and web products to AI-powered applications.**
 
-I'm especially interested in **AI engineering, developer tools, SaaS, and technology for education and financial services**.
+<a href="https://gtportf.vercel.app/"><strong>Portfolio</strong></a> ·
+<a href="https://github.com/tise-genene">GitHub</a> ·
+<a href="https://www.linkedin.com/in/genene-tise-253037234/">LinkedIn</a>
 
-[Portfolio](https://genenetise.com) · [GitHub](https://github.com/tise-genene)
+</div>
 
 ---
 
-## What I work on
+## About
 
-- **Product engineering:** Building full-stack applications, APIs, integrations, and reliable backend services.
-- **AI engineering:** Exploring LLM applications, retrieval-augmented generation (RAG), and agentic workflows.
-- **Systems thinking:** Caring about architecture, security, maintainability, deployment, and the details that make software dependable.
-- **Building for impact:** Interested in products that make education, access to information, and everyday services work better.
+I'm a software engineer based in Addis Ababa, Ethiopia. I enjoy working across the stack: understanding a problem, shaping the architecture, building the product, and making sure the result is maintainable and useful.
 
-## Selected projects
+My experience spans production software in financial services, remote SaaS product development, and products in the education space. Lately, I've also been spending time on AI engineering — especially retrieval-augmented generation, LLM-powered workflows, and agentic systems.
 
-A few projects that represent the kind of problems I like working on:
+I care about the engineering behind the interface: API design, data modeling, security, performance, deployment, and the small decisions that make software dependable.
 
-| Project | What it is |
+**Areas I'm interested in**
+- Full-stack and backend engineering
+- AI engineering, LLM applications, and RAG
+- SaaS and developer tools
+- Fintech and education technology
+- System design, reliability, and performance
+
+## Selected work
+
+These projects give a useful picture of what I build. Some are active products; others are experiments and learning projects. Check each repository for its current status.
+
+### Products and platforms
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Eagle Pathway](https://github.com/tise-genene/eaglespathway) | An education platform with a web admin dashboard and an Android-first mobile app connecting students, tutors, and education services. | Next.js, Expo, React Native, TypeScript, Supabase |
+| [VerifyReceipt](https://github.com/tise-genene/verifyreceipt) | Receipt-verification product with a mobile client and a backend API. | Flutter, FastAPI, Python |
+| [Unmail](https://github.com/tise-genene/Unmail) | A Gmail-focused subscription manager exploring inbox scanning and one-click unsubscribe flows. | Next.js, PostgreSQL, Prisma, Redis |
+| [Tutor Marketplace](https://github.com/tise-genene/tutor-marketplace) | A tutor–student marketplace concept with profiles, discovery, bookings, and platform workflows. | Next.js, TypeScript, PostgreSQL, Supabase |
+
+### Engineering and AI explorations
+
+| Project | What I'm exploring |
 | --- | --- |
-| [Eagle Pathway](https://github.com/tise-genene/eaglespathway) | An education platform bringing students, tutors, and education services together, with web and mobile applications. |
-| [Everything-OS](https://github.com/tise-genene/Everything-OS) | An approval-first, AI-assisted personal knowledge and career system focused on traceable information and evidence-backed outputs. |
-| [VerifyReceipt](https://github.com/tise-genene/verifyreceipt) | A receipt-verification product with a Flutter mobile client and a FastAPI backend. |
-| [Unmail](https://github.com/tise-genene/Unmail) | A Gmail-focused tool for finding subscriptions and simplifying email unsubscription. |
-| [RAG Assistant](https://github.com/tise-genene/rag-assistant) | A retrieval-augmented generation project for asking questions over a personal document collection. |
-| [Project Chimera](https://github.com/tise-genene/project-chimera) | An exploration of agentic infrastructure, specification-driven development, and test-governed implementation. |
-| [Dev Mentorship](https://github.com/tise-genene/dev-mentorship) | A practical space for beginner developers to learn collaboration through Git, issues, and pull requests. |
+| [Everything-OS](https://github.com/tise-genene/Everything-OS) | An approval-first personal knowledge and career system built around traceable information and evidence-backed outputs. |
+| [Project Chimera](https://github.com/tise-genene/project-chimera) | Specification-driven agentic infrastructure, test-governed development, and Java-based system design. |
+| [RAG Assistant](https://github.com/tise-genene/rag-assistant) | Document ingestion, embeddings, vector search, and question answering over a custom knowledge base. |
+| [Dev Mentorship](https://github.com/tise-genene/dev-mentorship) | A collaborative learning space for practicing Git, issues, pull requests, and code review. |
 
-*Some repositories are experiments or works in progress; their READMEs describe their current scope.*
+## Experience
 
-## Technologies
+- **Software engineering — financial services:** Building and maintaining web and application features in a high-availability banking environment, with attention to API integration, data, performance, and production reliability.
+- **Remote SaaS development — TapToSign:** Contributed to a digital-signing product, including document workflows, authentication, and real-time status updates while working with a distributed team.
+- **Product building — Eagle Pathway:** Helping build an education technology platform across web and mobile, from product workflows to backend and data integration.
+- **Teaching and mentorship:** Supported early-career developers through practical programming instruction and collaborative development exercises.
 
-I choose tools based on the problem, but these are recurring parts of my work:
+For the fuller timeline and project details, see my [portfolio](https://gtportf.vercel.app/).
 
-**Languages**  
-TypeScript · JavaScript · Python · Java · SQL
+## Technical toolkit
 
-**Frontend & mobile**  
-React · Next.js · React Native · Expo · Tailwind CSS
+I use tools according to the problem rather than trying to fit every problem into one stack.
 
-**Backend & data**  
-Node.js · FastAPI · PostgreSQL · Supabase · REST APIs
+| Area | Tools and technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, SQL |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Node.js, FastAPI, REST APIs |
+| Mobile | React Native, Expo, Flutter |
+| Data | PostgreSQL, MySQL, MongoDB, Supabase |
+| AI | LLM applications, RAG, embeddings, prompt and tool workflows |
+| Engineering tools | Git, Docker, CI/CD, Vercel, Render |
 
-**AI & infrastructure**  
-LLM applications · RAG · Docker · Git · CI/CD
+## Education
 
-## Background
+**BSc in Information Systems** — Addis Ababa University  
+2021–2024 · Great Distinction · GPA: 3.51/4.00
 
-I hold a **BSc in Information Systems from Addis Ababa University**, graduating with Great Distinction.
+My undergraduate thesis explored an AI-powered Human Resource Management System designed around workflow automation and intelligent data processing.
 
-My work sits at the intersection of software engineering and product building. I value clear communication, practical problem-solving, continuous learning, and code that another engineer can understand and maintain.
+## Beyond the code
 
-## Let's connect
+I enjoy learning how complex systems work, sharing what I learn, and building products that address practical problems. I'm particularly interested in how thoughtful software and AI can improve access to education and useful services.
 
-I'm open to conversations about **software engineering roles, AI engineering, interesting collaborations, and products worth building**.
+## Contact
 
-- 🌐 [Portfolio — genenetise.com](https://genenetise.com)
-- 💻 [GitHub — @tise-genene](https://github.com/tise-genene)
+I'm interested in connecting with engineering teams, founders, and people building useful products — especially around full-stack engineering, backend systems, and applied AI.
+
+- **Portfolio:** [gtportf.vercel.app](https://gtportf.vercel.app/)
+- **LinkedIn:** [Genene Tise](https://www.linkedin.com/in/genene-tise-253037234/)
+- **GitHub:** [@tise-genene](https://github.com/tise-genene)
 
 ---
 
-*Always learning. Always building. Trying to make the next thing a little better than the last.*
+<sub>Based in Addis Ababa, Ethiopia · Open to meaningful remote and collaborative opportunities.</sub>
